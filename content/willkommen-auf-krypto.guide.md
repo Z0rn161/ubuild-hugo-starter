@@ -20,7 +20,7 @@ caption = ""
 image = "/uploads/2018/06/21/forestry-symbol.svg"
 [page_sections.image_2]
 caption = ""
-image = ""
+image = "/uploads/2018/06/21/forestry-full.svg"
 [[page_sections]]
 block = "feature-1"
 content = "Testblog is cool!<br><strong>TADA!</strong>"
