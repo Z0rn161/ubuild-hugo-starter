@@ -21,5 +21,14 @@ image = "/uploads/2018/06/21/forestry-symbol.svg"
 [page_sections.image_2]
 caption = ""
 image = ""
+[[page_sections]]
+block = "feature-1"
+content = "Testblog is cool!<br><strong>TADA!</strong>"
+headline = "das ist ein Test-Blogpost"
+media_alignment = "Right"
+template = "content-feature"
+[page_sections.media]
+alt_text = ""
+image = "/uploads/2018/06/21/drone-photo.jpeg"
 
 +++
